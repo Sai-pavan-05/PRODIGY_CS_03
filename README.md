@@ -92,7 +92,7 @@ Key components in `PassCheck.py`:
 
 ## 📸 Demo Screenshot
 
-![image alt](screenshot.png)
+![image alt](https://github.com/Sai-pavan-05/PRODIGY_CS_03/blob/main/Task-3%20Output-1.png)
 
 ---
 
