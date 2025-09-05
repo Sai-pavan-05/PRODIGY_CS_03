@@ -94,6 +94,8 @@ Key components in `PassCheck.py`:
 
 ![image alt](https://github.com/Sai-pavan-05/PRODIGY_CS_03/blob/main/Task-3%20Output-1.png)
 
+![image alt](https://github.com/Sai-pavan-05/PRODIGY_CS_03/blob/main/Task-3%20Output-2.png)
+
 ---
 
 ## 📜 License
